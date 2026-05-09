@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Urfiya Libaibe</h1>
-<h3 align="center">AI & ML Enthusiast | IoT Builder | CSE '27 @ VVCE Mysore</h3>
+<h2 align="center">AI & ML Enthusiast | Real-World Builder | CSE '27 @ VVCE Mysore</h2>
 
 <br/>
 
