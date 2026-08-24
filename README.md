@@ -1,88 +1,30 @@
 # 👋 Hi, I'm Urfiya Libaibe
 
-### 💻 Computer Science Engineering Student | 🤖 AI/ML | 🔌 IoT | ☁️ Cloud & DevOps
+### 💻 Computer Science Engineering Student | 🤖 AI & ML Enthusiast | 🔌 IoT Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Enthusiast;IoT+%26+Smart+Systems+Builder;Python+Developer;Learning+Docker+%26+Kubernetes;Building+Real-World+Projects+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Urfiya-Libaibe">
-<img src="https://img.shields.io/badge/GitHub-Urfiya--Libaibe-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/urfiya-libaibe-903521330/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:urfiyalibaibe410@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Enthusiast;IoT+%26+Smart+Systems+Builder;Python+Developer;Computer+Science+Engineering+Student;Always+Learning+%26+Building+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-I'm **Urfiya Libaibe**, a Computer Science Engineering student at **Vidyavardhaka College of Engineering (VVCE), Mysuru**, passionate about building technology that solves real-world problems.
+I'm **Urfiya Libaibe**, a Computer Science Engineering student at **Vidya Vardhaka College of Engineering, Mysuru**.
 
-My interests lie at the intersection of:
+I'm passionate about building practical technology that combines:
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🔌 **Internet of Things & Smart Systems**
-- 🐍 **Python & Software Development**
-- 🩺 **Healthcare Technology**
-- 🌱 **Smart Agriculture**
-- ☁️ **Cloud & DevOps**
-- 📊 **Data-driven Applications**
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌱 Smart Agriculture
+- 🩺 Healthcare Technology
+- 🔌 Internet of Things
+- 📊 Data-driven Applications
+- 💻 Software Development
 
-I learn best by **building, experimenting, and solving practical problems**.
+I enjoy learning by **building real-world projects**, experimenting with new technologies, and turning ideas into working solutions.
 
-Currently, I'm strengthening my foundations in **Data Structures & Algorithms, Python, SQL, AI/ML**, while expanding into **Docker and Kubernetes** to understand modern application deployment and cloud-native development.
-
----
-
-# 🧠 What I Bring
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-
-Building prediction and intelligent systems using Python, Machine Learning, computer vision and AI.
-
-</td>
-
-<td width="50%">
-
-### 🔌 IoT & Embedded Systems
-
-Connecting hardware, sensors, microcontrollers and cloud platforms to build smart systems.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💻 Software Development
-
-Developing applications with Python, Flask, databases, APIs and modern development tools.
-
-</td>
-
-<td width="50%">
-
-### ☁️ Cloud & DevOps
-
-Currently learning containerization and orchestration using **Docker and Kubernetes**.
-
-</td>
-</tr>
-</table>
+Currently, I'm strengthening my foundations in **Data Structures & Algorithms, Python, SQL, AI/ML and backend development**.
 
 ---
 
@@ -92,9 +34,9 @@ Currently learning containerization and orchestration using **Docker and Kuberne
 
 ### AI-powered Soil & Fertilizer Recommendation System
 
-A smart agriculture project that combines **Machine Learning, computer vision and Raspberry Pi** to explore intelligent soil analysis and fertilizer recommendations.
+A smart agriculture project designed to assist with soil analysis and fertilizer recommendations using Machine Learning and computer vision.
 
-### 🔍 Key Highlights
+### ✨ Highlights
 
 - 🌱 Soil type classification
 - 🤖 Machine Learning-based prediction
@@ -102,13 +44,12 @@ A smart agriculture project that combines **Machine Learning, computer vision an
 - 📷 Computer vision
 - 🖥️ Raspberry Pi deployment
 - 📊 Dataset-based model training
-- ⚡ Model optimization for deployment
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies
 
 `Python` `Machine Learning` `YOLOv5` `Raspberry Pi` `ONNX` `Google Colab`
 
-🔗 **[View Repository →](https://github.com/Urfiya-Libaibe/Smart-AgriAI-Soil-Fertilizer-Predictor)**
+🔗 **[View Project →](https://github.com/Urfiya-Libaibe/Smart-AgriAI-Soil-Fertilizer-Predictor)**
 
 ---
 
@@ -116,11 +57,11 @@ A smart agriculture project that combines **Machine Learning, computer vision an
 
 ### AI-powered Antimicrobial Resistance Platform
 
-A healthcare-focused AI platform exploring **Antimicrobial Resistance (AMR)** analysis and evidence-aware decision support.
+ResistAI is a healthcare-focused AI platform exploring antimicrobial resistance analysis and evidence-aware decision support.
 
-The project focuses on using AI and structured data to explore relationships between **pathogens, antibiotics, resistance patterns and clinical information**.
+The project aims to explore how AI can help analyze **pathogens, antibiotics, resistance patterns and AMR data**.
 
-### 🔍 Key Highlights
+### ✨ Highlights
 
 - 🤖 AI-powered analysis
 - 🧬 Pathogen & antibiotic analysis
@@ -128,14 +69,13 @@ The project focuses on using AI and structured data to explore relationships bet
 - 🔎 Evidence-aware insights
 - 🧠 Multi-agent AI architecture
 - 🩺 Healthcare decision-support concepts
-- 🗄️ Database-backed architecture
-- 📋 Audit and evidence tracking
+- 🗄️ Database-backed application
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies
 
 `Python` `AI` `Multi-Agent Systems` `Flask` `SQL` `SQLite` `MySQL`
 
-🔗 **[View Repository →](https://github.com/Urfiya-Libaibe/ResistAI-AMR-Prediction-App)**
+🔗 **[View Project →](https://github.com/Urfiya-Libaibe/ResistAI-AMR-Prediction-App)**
 
 ---
 
@@ -143,195 +83,100 @@ The project focuses on using AI and structured data to explore relationships bet
 
 ### IoT-based Intelligent Queue System
 
-An IoT-based queue management solution designed to improve customer flow using **sensors, microcontrollers, cloud data and real-time displays**.
+An IoT-based queue management system designed to monitor and manage customer queues using sensors, microcontrollers and cloud technologies.
 
-### 🔍 Key Highlights
+### ✨ Highlights
 
 - 🎫 Digital token management
 - 📡 Real-time queue monitoring
 - 👥 Presence detection
+- 🔔 Notification system
 - ☁️ Firebase integration
 - 📺 Live LCD token display
 - 📊 IoT data monitoring
-- 🔔 Notification capabilities
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies
 
 `NodeMCU` `Firebase` `PIR Sensor` `Arduino` `ThingSpeak` `IoT`
 
-🔗 **[View Repository →](https://github.com/Urfiya-Libaibe/Smart-Queue-Management-PIR-IoT)**
+🔗 **[View Project →](https://github.com/Urfiya-Libaibe/Smart-Queue-Management-PIR-IoT)**
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
 ## 💻 Programming Languages
 
 <p>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 </p>
-
----
 
 ## 🤖 AI / Machine Learning
 
 <p>
-
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
 </p>
-
----
 
 ## 🔌 IoT & Hardware
 
 <p>
-
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-
 </p>
 
-`PIR Sensors` `IR Sensors` `LCD Displays` `IoT Systems`
-
----
-
-## 🌐 Backend & Databases
+## 🗄️ Backend & Databases
 
 <p>
-
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
 </p>
 
----
-
-## ☁️ Cloud & DevOps
+## 🧰 Tools
 
 <p>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
-> 📚 **Currently learning:** Docker & Kubernetes
 
 ---
 
 # 📚 Currently Learning
 
-| Technology | What I'm Exploring |
+| Area | Focus |
 |---|---|
-| 🐳 **Docker** | Containers, images, Dockerfiles & application deployment |
-| ☸️ **Kubernetes** | Containers orchestration, pods, deployments & services |
-| 🧠 **DSA** | Problem solving, algorithms & complexity |
-| 🐍 **Python** | Advanced Python & backend development |
-| 🗄️ **SQL** | Database design, queries & optimization |
-| 🤖 **AI/ML** | Practical ML and intelligent systems |
-| 🌐 **Backend Development** | APIs, Flask & database integration |
+| 🤖 Artificial Intelligence | AI systems & practical applications |
+| 🧠 Data Structures & Algorithms | Problem solving & coding fundamentals |
+| 🐍 Python | Advanced Python & backend development |
+| 🗄️ SQL | Database design & queries |
+| 🌐 Backend Development | APIs, Flask & databases |
+| 📊 Machine Learning | Data preprocessing & predictive models |
+| 💻 Computer Science | Strengthening core CS fundamentals |
 
 ---
 
-# 🎓 Education
-
-## Vidyavardhaka College of Engineering (VVCE)
-
-### 🎓 B.E. / B.Tech — Computer Science & Engineering
-
-📍 **Mysuru, Karnataka, India**
-
-🎓 **CSE '27**
-
-Currently pursuing Computer Science & Engineering with a focus on:
-
-`Software Development` • `AI/ML` • `Data Structures` • `Databases` • `IoT` • `Cloud & DevOps`
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Urfiya-Libaibe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urfiya-Libaibe&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Urfiya-Libaibe&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Areas I'm Interested In
+# 🎯 Areas of Interest
 
 ```text
 Artificial Intelligence
-        │
-        ├── Machine Learning
-        ├── Computer Vision
-        └── Multi-Agent Systems
-
-Internet of Things
-        │
-        ├── Raspberry Pi
-        ├── Sensors
-        └── Smart Automation
-
-Software Engineering
-        │
-        ├── Python
-        ├── Backend Development
-        └── Databases
-
-Cloud & DevOps
-        │
-        ├── Docker
-        └── Kubernetes
-
+        ↓
+Machine Learning
+        ↓
+Data & Intelligent Systems
+        ↓
 Real-World Applications
-        ├── 🌱 Smart Agriculture
-        ├── 🩺 Healthcare Technology
-        └── 🔌 Intelligent Systems
+        ↓
+🌱 Agriculture | 🩺 Healthcare | 🔌 IoT
