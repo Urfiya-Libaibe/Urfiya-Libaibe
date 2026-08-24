@@ -143,8 +143,6 @@ An IoT-based queue management project designed to monitor and manage customer qu
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
@@ -226,36 +224,27 @@ I'm continuously expanding my technical skills and strengthening my software eng
 
 ---
 
-# 🎯 Areas of Interest
+# 🧩 Areas of Interest
 
-```text
-                 🤖 ARTIFICIAL INTELLIGENCE
-                          │
-              ┌───────────┼───────────┐
-              ↓           ↓           ↓
-          Machine     Computer    Multi-Agent
-          Learning      Vision        AI
-              │           │           │
-              └───────────┼───────────┘
-                          ↓
-                 🧠 INTELLIGENT SYSTEMS
-                          │
-             ┌────────────┼────────────┐
-             ↓            ↓            ↓
-          🌱 Agri      🩺 Health    📊 Data
-             │            │            │
-             └────────────┼────────────┘
-                          ↓
-                 💻 SOFTWARE ENGINEERING
-                          │
-             ┌────────────┼────────────┐
-             ↓            ↓            ↓
-          Python       Backend       SQL
-             │            │            │
-             └────────────┼────────────┘
-                          ↓
-                    ☁️ CLOUD & DEVOPS
-                          │
-                    ┌─────┴─────┐
-                    ↓           ↓
-                 Docker    Kubernetes
+### 🤖 Artificial Intelligence & Machine Learning
+- Machine Learning
+- Computer Vision
+- AI Applications
+- Multi-Agent AI
+
+### 💻 Software Engineering
+- Python
+- Data Structures & Algorithms
+- Backend Development
+- SQL & Databases
+
+### ☁️ Cloud & DevOps
+- Docker
+- Kubernetes
+- Containerization
+- Application Deployment
+
+### 🌍 Real-World Applications
+- 🌱 Smart Agriculture
+- 🩺 Healthcare Technology
+- 📊 Data-driven Systems
