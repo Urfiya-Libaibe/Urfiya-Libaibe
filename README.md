@@ -1,3 +1,13 @@
+# 👋 Hi, I'm Urfiya Libaibe
+
+I'm **Urfiya Libaibe**, a Computer Science Engineering student at
+**Vidyavardhaka College of Engineering (VVCE), Mysuru**, interested in
+building practical software and AI-powered solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Enthusiast;IoT+%26+Smart+Systems+Builder;Python+Developer;Computer+Science+Engineering+Student;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
+
+---
 
 ## 🌟 About Me
 
@@ -171,6 +181,3 @@ Data & Intelligent Systems
 Real-World Applications
         ↓
 🌱 Agriculture | 🩺 Healthcare | 🔌 IoT
-- 🚀 Constantly learning and building new projects
-
----
