@@ -27,7 +27,7 @@
 **Bachelor of Engineering — Computer Science & Engineering**
 
 📍 Mysuru, Karnataka, India  
-🎓 **CSE '27**
+🎓 **CSE '28**
 
 Currently building a strong foundation in **Computer Science, Artificial Intelligence, Machine Learning, Software Development, Databases, and Cloud & DevOps**.
 
@@ -221,30 +221,3 @@ I'm continuously expanding my technical skills and strengthening my software eng
 | 🗄️ **SQL** | Database design & queries |
 | 🌐 **Backend Development** | APIs, Flask & databases |
 | ☕ **Java** | Object-oriented programming & application development |
-
----
-
-# 🧩 Areas of Interest
-
-### 🤖 Artificial Intelligence & Machine Learning
-- Machine Learning
-- Computer Vision
-- AI Applications
-- Multi-Agent AI
-
-### 💻 Software Engineering
-- Python
-- Data Structures & Algorithms
-- Backend Development
-- SQL & Databases
-
-### ☁️ Cloud & DevOps
-- Docker
-- Kubernetes
-- Containerization
-- Application Deployment
-
-### 🌍 Real-World Applications
-- 🌱 Smart Agriculture
-- 🩺 Healthcare Technology
-- 📊 Data-driven Systems
