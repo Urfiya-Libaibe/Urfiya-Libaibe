@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Urfiya Libaibe
 
-### 💻 Computer Science Engineering Student | 🤖 AI/ML Enthusiast | 🐍 Python | Agentic AI | Docker & Kuberenetes 
+### 💻 Computer Science Engineering Student | 🤖 AI/ML Enthusiast | Python | Java | Agentic AI | Docker & Kubernetes 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Enthusiast;Python+Developer;Building+Real-World+AI+Solutions;Exploring+Cloud+%26+DevOps;Learning+Docker+%26+Kubernetes;Always+Learning+%26+Building+%F0%9F%9A%80" />
